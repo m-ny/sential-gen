@@ -16,12 +16,12 @@ const examples = [
   },
   {
     id: 2,
-    imageUrl: 'https://raw.githubusercontent.com/m-ny/sential-gen/refs/heads/main/static/example-two.png',
+    imageUrl: 'https://raw.githubusercontent.com/m-ny/sential-gen/refs/heads/main/static/example-twoo.png',
     companyName: 'Modern Brand',
   },
   {
     id: 3,
-    imageUrl: 'https://raw.githubusercontent.com/m-ny/sential-gen/refs/heads/main/static/example-three.png',
+    imageUrl: 'https://raw.githubusercontent.com/m-ny/sential-gen/refs/heads/main/static/example-threee.png',
     companyName: 'Creative Studio',
   },
   {
