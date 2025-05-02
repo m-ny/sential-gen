@@ -11,27 +11,27 @@ import { supabase } from '../lib/supabase';
 const examples = [
   {
     id: 1,
-    imageUrl: 'https://yxzstyvesicxnrubiznq.supabase.co/storage/v1/object/public/assets//example-one.png',
+    imageUrl: 'https://raw.githubusercontent.com/m-ny/sential-gen/refs/heads/main/static/example-one.png',
     companyName: 'Minimalist Tech',
   },
   {
     id: 2,
-    imageUrl: 'https://yxzstyvesicxnrubiznq.supabase.co/storage/v1/object/public/assets//example-two.png',
+    imageUrl: 'https://raw.githubusercontent.com/m-ny/sential-gen/refs/heads/main/static/example-two.png',
     companyName: 'Modern Brand',
   },
   {
     id: 3,
-    imageUrl: 'https://yxzstyvesicxnrubiznq.supabase.co/storage/v1/object/public/assets//example-three.png',
+    imageUrl: 'https://raw.githubusercontent.com/m-ny/sential-gen/refs/heads/main/static/example-three.png',
     companyName: 'Creative Studio',
   },
   {
     id: 4,
-    imageUrl: 'https://yxzstyvesicxnrubiznq.supabase.co/storage/v1/object/public/assets//example-four.png',
+    imageUrl: 'https://raw.githubusercontent.com/m-ny/sential-gen/refs/heads/main/static/example-four.png',
     companyName: 'Digital Agency',
   },
   {
     id: 5,
-    imageUrl: 'https://yxzstyvesicxnrubiznq.supabase.co/storage/v1/object/public/assets//example-five.png',
+    imageUrl: 'https://raw.githubusercontent.com/m-ny/sential-gen/refs/heads/main/static/example-five.png',
     companyName: 'Future Systems',
   },
 ];
