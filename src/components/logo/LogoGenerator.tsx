@@ -123,17 +123,17 @@ const LogoGenerator = ({ onGenerateClick, isLoggedIn }: LogoGeneratorProps) => {
     {
       id: 'block',
       name: 'Block',
-      image: 'https://yxzstyvesicxnrubiznq.supabase.co/storage/v1/object/public/assets//block.png'
+      image: 'https://raw.githubusercontent.com/m-ny/sential-gen/refs/heads/main/static/block.png'
     },
     {
       id: 'sharp',
       name: 'Sharp',
-      image: 'https://yxzstyvesicxnrubiznq.supabase.co/storage/v1/object/public/assets//sharp.png'
+      image: 'https://raw.githubusercontent.com/m-ny/sential-gen/refs/heads/main/static/sharp.png'
     },
     {
       id: 'rounded',
       name: 'Rounded',
-      image: 'https://yxzstyvesicxnrubiznq.supabase.co/storage/v1/object/public/assets//rounded.png'
+      image: 'https://raw.githubusercontent.com/m-ny/sential-gen/refs/heads/main/static/rounded.png'
     }
   ];
 
